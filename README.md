@@ -1,2 +1,2 @@
 # mynewstudy
-this is a casestudy for my understanding of how guthub works.
+this is a casestudy for my understanding of how github works.
